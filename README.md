@@ -1,4 +1,4 @@
-# Funnel Analysis #
+# Swiggy Funnel Analysis #
 
 Analyzed conversion rate for various stages like Listing to Menu, Menu to Cart, Cart to Payment, Payment to Orders for a online delivery platform.
 
